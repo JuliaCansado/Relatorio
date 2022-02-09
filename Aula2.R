@@ -9,3 +9,5 @@ gitcreds::gitcreds_set()
 usethis::git_sitrep()
 usethis::use_git()
 usethis::use_github()
+
+##aula 2 teste
